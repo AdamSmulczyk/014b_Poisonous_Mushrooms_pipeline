@@ -1,0 +1,10 @@
+README.md
+setup.py
+models/__init__.py
+models/user_model.py
+mushroom_classifier.egg-info/PKG-INFO
+mushroom_classifier.egg-info/SOURCES.txt
+mushroom_classifier.egg-info/dependency_links.txt
+mushroom_classifier.egg-info/entry_points.txt
+mushroom_classifier.egg-info/requires.txt
+mushroom_classifier.egg-info/top_level.txt
